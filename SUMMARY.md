@@ -37,3 +37,12 @@
 * [🛡️ Slippage and Minimum Output](trading-sdk/slippage-and-minimum-output.md)
 * [🧱 Build Transactions](trading-sdk/build-transactions.md)
 * [👛 Wallet Signing and Submission](trading-sdk/wallet-signing-and-submission.md)
+
+## TOKEN CREATION
+
+* [🚀 Create a Moonz Token](token-creation/create-a-moonz-token.md)
+* [🖼️ Image and Metadata](token-creation/image-and-metadata.md)
+* [💰 Dev Buy](token-creation/dev-buy.md)
+* [🧾 Launch Sequence](token-creation/launch-sequence.md)
+* [📡 Progress and Callbacks](token-creation/progress-and-callbacks.md)
+* [🛡️ Errors and Recovery](token-creation/errors-and-recovery.md)
