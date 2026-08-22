@@ -55,3 +55,12 @@
 * [💸 Fees](understanding-moonz/fees.md)
 * [🔀 PCLS](understanding-moonz/pcls.md)
 * [🛡️ Protocol Guarantees](understanding-moonz/protocol-guarantees.md)
+
+## BUILD WITH MOONZ
+
+* [🔭 Build a Token Explorer](build-with-moonz/token-explorer.md)
+* [📡 Live Trade Feed](build-with-moonz/live-trade-feed.md)
+* [📊 Bonding Tracker](build-with-moonz/bonding-tracker.md)
+* [🌊 AMM Dashboard](build-with-moonz/amm-dashboard.md)
+* [🔀 PCLS Monitor](build-with-moonz/pcls-monitor.md)
+* [🚀 Trading Interface](build-with-moonz/trading-interface.md)
