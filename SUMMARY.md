@@ -11,3 +11,4 @@
 
 * [🌙 Meet the SDK](moonz-sdk/meet-the-sdk.md)
 * [🔎 Read a Moonz Token](moonz-sdk/read-a-moonz-token.md)
+* [🔭 Discover Moonz](moonz-sdk/discover-moonz.md)
