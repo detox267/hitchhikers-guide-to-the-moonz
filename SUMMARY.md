@@ -13,3 +13,7 @@
 * [🔎 Read a Moonz Token](moonz-sdk/read-a-moonz-token.md)
 * [🔭 Discover Moonz](moonz-sdk/discover-moonz.md)
 * [📊 Market Data](moonz-sdk/market-data.md)
+* [⚡ Listen to Moonz](moonz-sdk/listen-to-moonz.md)
+* [🕰️ Historical Events](moonz-sdk/historical-events.md)
+* [🛰️ Protocol Addresses](moonz-sdk/protocol-addresses.md)
+* [🛡️ Integrity Checks](moonz-sdk/integrity-checks.md)
