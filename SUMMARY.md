@@ -26,3 +26,14 @@
 * [🧬 Understand the Messages](geyser/understand-the-messages.md)
 * [🔁 Production Reliability](geyser/production-reliability.md)
 * [🏗️ Build a Moonz Indexer](geyser/build-a-moonz-indexer.md)
+
+## TRADING SDK
+
+* [⚡ Meet the Trading SDK](trading-sdk/meet-the-trading-sdk.md)
+* [💬 Quote a Trade](trading-sdk/quote-a-trade.md)
+* [🟢 Buy Moonz](trading-sdk/buy-moonz.md)
+* [🔴 Sell Moonz](trading-sdk/sell-moonz.md)
+* [🛣️ Automatic Market Routing](trading-sdk/automatic-market-routing.md)
+* [🛡️ Slippage and Minimum Output](trading-sdk/slippage-and-minimum-output.md)
+* [🧱 Build Transactions](trading-sdk/build-transactions.md)
+* [👛 Wallet Signing and Submission](trading-sdk/wallet-signing-and-submission.md)
