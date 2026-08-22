@@ -46,3 +46,12 @@
 * [🧾 Launch Sequence](token-creation/launch-sequence.md)
 * [📡 Progress and Callbacks](token-creation/progress-and-callbacks.md)
 * [🛡️ Errors and Recovery](token-creation/errors-and-recovery.md)
+
+## UNDERSTANDING MOONZ
+
+* [🌙 Token Lifecycle](understanding-moonz/token-lifecycle.md)
+* [📈 Bonding Curve](understanding-moonz/bonding-curve.md)
+* [🌊 Migration and AMM](understanding-moonz/migration-and-amm.md)
+* [💸 Fees](understanding-moonz/fees.md)
+* [🔀 PCLS](understanding-moonz/pcls.md)
+* [🛡️ Protocol Guarantees](understanding-moonz/protocol-guarantees.md)
